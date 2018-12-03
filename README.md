@@ -1,0 +1,2 @@
+# guidefinder
+KHAATERDAARI It is a web app tool that is developed to find the nearest official Rajasthan tourism guides for the tourists by using their geolocation the tool searches the database to find the nearest office ranged within 10 kilometers from the user's current location. The technologies used for developing the tool is Google Map API, PHP, CodeIgniter, Ajax, jQuery, Bootstrap, HTML, CSS.
